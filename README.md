@@ -37,7 +37,7 @@ Welcome to my digital playground! I am passionate about building robust applicat
 
 ### 📫 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-*   📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+*   📧 **Email:** [your.email@example.com](rjay7642@gmail.com)
 
 "Keep pushing code, keep breaking limits." 💪🔥
